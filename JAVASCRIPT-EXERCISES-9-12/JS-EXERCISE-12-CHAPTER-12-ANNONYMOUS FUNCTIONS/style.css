@@ -1,0 +1,25 @@
+body{
+    background: rgb(238,174,174);
+    background: radial-gradient(circle, rgba(238,174,174,1) 0%, rgba(0,0,0,1) 100%);    cursor: pointer;
+    border: 2px solid black;
+    width: 350px;
+    height: 300px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px 5px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    background-color: rgb(223, 100, 153);
+}
+
+.image{
+width: 90%;
+height: 70%;
+border: 1px solid black;
+border-radius: 20px;
+box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+p{
+font-weight: bold;
+font-size: 18px;
+}
